@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi LingualDemo App</string>
+    <string name="string_username">User Name</string>
+    <string name="string_multi_lingual_demo_app">Multi Lingual Demo App</string>
+    <string name="string_password">Password</string>
+    <string name="string_btn_submit">Submit</string>
+
+    <string-array name="Language">
+        <item>Choose Language</item>
+        <item>Bangla</item>
+        <item>Spanish</item>
+        <item>English</item>
+    </string-array>
+</resources>

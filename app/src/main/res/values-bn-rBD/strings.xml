@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="true">মাল্টি ভাষাগত ডেমো অ্যাপ্লিকেশন</string>
+    <string name="string_username">ব্যবহারকারীর নাম</string>
+    <string name="string_multi_lingual_demo_app">মাল্টি ভাষাগত ডেমো অ্যাপ্লিকেশন</string>
+    <string name="string_password">পাসওয়ার্ড</string>
+    <string name="string_btn_submit">জমা দিন</string>
+
+    <string-array name="Language">
+        <item>Choose Language</item>
+        <item>Bangla</item>
+        <item>Spanish</item>
+        <item>English</item>
+    </string-array>
+</resources>
